@@ -2,4 +2,4 @@
 
 Can the console handle displaying images? or gradients?
 
-** Answer: Yes **
+<b>Answer: Yes </b>
