@@ -44,6 +44,7 @@ int main()
     return 0;
 }
 void DrwWSOD(HDC* console) {
+    // White screen of death
     DrwImage("Win10XWSOD.bmp", 400, 0, 50, *&console);
 }
 void DrwLine(int LineHeight, int Vertical,int Border,int Horizontal, COLORREF COLOURV,bool Gradient, HDC *console) {
